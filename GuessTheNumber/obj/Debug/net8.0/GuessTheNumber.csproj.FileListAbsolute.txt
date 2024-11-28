@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\Hangman\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
+C:\Users\User\Desktop\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+C:\Users\User\Desktop\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+C:\Users\User\Desktop\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+C:\Users\User\Desktop\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+C:\Users\User\Desktop\Hangman\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\User\Desktop\Hangman\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll

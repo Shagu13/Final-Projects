@@ -1,0 +1,227 @@
+[
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "PublicationYear": 1925
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "PublicationYear": 1960
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "PublicationYear": 1949
+  },
+  {
+    "Title": "Moby Dick",
+    "Author": "Herman Melville",
+    "PublicationYear": 1851
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "PublicationYear": 1813
+  },
+  {
+    "Title": "War and Peace",
+    "Author": "Leo Tolstoy",
+    "PublicationYear": 1869
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "PublicationYear": 1951
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "PublicationYear": 1937
+  },
+  {
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "PublicationYear": 1988
+  },
+  {
+    "Title": "Anna Karenina",
+    "Author": "Leo Tolstoy",
+    "PublicationYear": 1877
+  },
+  {
+    "Title": "The Divine Comedy",
+    "Author": "Dante Alighieri",
+    "PublicationYear": 1320
+  },
+  {
+    "Title": "Don Quixote",
+    "Author": "Miguel de Cervantes",
+    "PublicationYear": 1615
+  },
+  {
+    "Title": "The Brothers Karamazov",
+    "Author": "Fyodor Dostoevsky",
+    "PublicationYear": 1880
+  },
+  {
+    "Title": "The Count of Monte Cristo",
+    "Author": "Alexandre Dumas",
+    "PublicationYear": 1844
+  },
+  {
+    "Title": "Les Mis\u00E9rables",
+    "Author": "Victor Hugo",
+    "PublicationYear": 1862
+  },
+  {
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Bront\u00EB",
+    "PublicationYear": 1847
+  },
+  {
+    "Title": "Wuthering Heights",
+    "Author": "Emily Bront\u00EB",
+    "PublicationYear": 1847
+  },
+  {
+    "Title": "The Scarlet Letter",
+    "Author": "Nathaniel Hawthorne",
+    "PublicationYear": 1850
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Author": "Fyodor Dostoevsky",
+    "PublicationYear": 1866
+  },
+  {
+    "Title": "Frankenstein",
+    "Author": "Mary Shelley",
+    "PublicationYear": 1818
+  },
+  {
+    "Title": "Dracula",
+    "Author": "Bram Stoker",
+    "PublicationYear": 1897
+  },
+  {
+    "Title": "The Picture of Dorian Gray",
+    "Author": "Oscar Wilde",
+    "PublicationYear": 1890
+  },
+  {
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "PublicationYear": 1932
+  },
+  {
+    "Title": "Animal Farm",
+    "Author": "George Orwell",
+    "PublicationYear": 1945
+  },
+  {
+    "Title": "The Metamorphosis",
+    "Author": "Franz Kafka",
+    "PublicationYear": 1915
+  },
+  {
+    "Title": "Heart of Darkness",
+    "Author": "Joseph Conrad",
+    "PublicationYear": 1899
+  },
+  {
+    "Title": "Ulysses",
+    "Author": "James Joyce",
+    "PublicationYear": 1922
+  },
+  {
+    "Title": "Madame Bovary",
+    "Author": "Gustave Flaubert",
+    "PublicationYear": 1857
+  },
+  {
+    "Title": "Lolita",
+    "Author": "Vladimir Nabokov",
+    "PublicationYear": 1955
+  },
+  {
+    "Title": "Catch-22",
+    "Author": "Joseph Heller",
+    "PublicationYear": 1961
+  },
+  {
+    "Title": "One Hundred Years of Solitude",
+    "Author": "Gabriel Garc\u00EDa M\u00E1rquez",
+    "PublicationYear": 1967
+  },
+  {
+    "Title": "The Sound and the Fury",
+    "Author": "William Faulkner",
+    "PublicationYear": 1929
+  },
+  {
+    "Title": "Beloved",
+    "Author": "Toni Morrison",
+    "PublicationYear": 1987
+  },
+  {
+    "Title": "The Old Man and the Sea",
+    "Author": "Ernest Hemingway",
+    "PublicationYear": 1952
+  },
+  {
+    "Title": "A Farewell to Arms",
+    "Author": "Ernest Hemingway",
+    "PublicationYear": 1929
+  },
+  {
+    "Title": "For Whom the Bell Tolls",
+    "Author": "Ernest Hemingway",
+    "PublicationYear": 1940
+  },
+  {
+    "Title": "The Grapes of Wrath",
+    "Author": "John Steinbeck",
+    "PublicationYear": 1939
+  },
+  {
+    "Title": "East of Eden",
+    "Author": "John Steinbeck",
+    "PublicationYear": 1952
+  },
+  {
+    "Title": "Of Mice and Men",
+    "Author": "John Steinbeck",
+    "PublicationYear": 1937
+  },
+  {
+    "Title": "The Jungle",
+    "Author": "Upton Sinclair",
+    "PublicationYear": 1906
+  },
+  {
+    "Title": "Fahrenheit 451",
+    "Author": "Ray Bradbury",
+    "PublicationYear": 1953
+  },
+  {
+    "Title": "Slaughterhouse-Five",
+    "Author": "Kurt Vonnegut",
+    "PublicationYear": 1969
+  },
+  {
+    "Title": "Lord of the Flies",
+    "Author": "William Golding",
+    "PublicationYear": 1954
+  },
+  {
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "PublicationYear": 1965
+  },
+  {
+    "Title": "The Shining",
+    "Author": "Stephen King",
+    "PublicationYear": 1977
+  }
+]

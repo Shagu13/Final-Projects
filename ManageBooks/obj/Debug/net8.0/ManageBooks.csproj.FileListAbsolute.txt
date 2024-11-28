@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.exe
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.deps.json
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.runtimeconfig.json
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.pdb
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\refint\ManageBooks.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.pdb
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ref\ManageBooks.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\ItStepAcademy.Term 1\Final Projects\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBo.A87436FF.Up2Date
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.exe
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.deps.json
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.runtimeconfig.json
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.dll
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\ManageBooks.pdb
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.AssemblyInfo.cs
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBo.A87436FF.Up2Date
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.dll
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\refint\ManageBooks.dll
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.pdb
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ManageBooks.genruntimeconfig.cache
+C:\Users\User\Desktop\Term 1 Final Projects\ManageBooks\obj\Debug\net8.0\ref\ManageBooks.dll
